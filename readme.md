@@ -3,7 +3,8 @@
 # Pf Lab 01
 
 ## Question: 01
-![1](https://github.com/naveenfatima/PfFall23/assets/142868056/68a8401d-41ed-4071-80a8-36049f051ce6)
+![Screenshot (13)](https://github.com/naveenfatima/PfFall23/assets/142868056/1c71395a-57d8-42dd-879d-ee23714f640e)
+
 
 ## Question: 02
 ![2](https://github.com/naveenfatima/PfFall23/assets/142868056/c3bbefaf-44e1-4d09-9cce-eecda48e483a)
